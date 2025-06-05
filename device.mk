@@ -1264,3 +1264,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 
 
+$(call inherit-product, vendor/lindroid/lindroid.mk)
